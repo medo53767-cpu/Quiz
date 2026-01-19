@@ -1,13 +1,5 @@
-# تجاهل كل الملفات غير Dart
-*.cpp linguist-detectable=false
-*.c linguist-detectable=false
-*.h linguist-detectable=false
-*.cmake linguist-detectable=false
-*.swift linguist-detectable=false
-*.m linguist-detectable=false
-*.mm linguist-detectable=false
-*.html linguist-detectable=false
-*.xml linguist-detectable=false
-*.gradle linguist-detectable=false
-*.properties linguist-detectable=false
-*.sh linguist-detectable=false
+android/** linguist-vendored
+ios/** linguist-vendored
+macos/** linguist-vendored
+windows/** linguist-vendored
+linux/** linguist-vendored
